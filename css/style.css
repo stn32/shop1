@@ -95,7 +95,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__btn_search::before {
     content: '';
     display: block;
-    background: url("/i/icon_zoom.svg") no-repeat center center/cover;
+    background: url("i/icon_zoom.svg") no-repeat center center/cover;
     height: 1.2rem;
     width: 1.2rem;
     display: flex;
@@ -134,7 +134,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__phone::before {
     content: '';
     display: inline-block;
-    background: url("/i/icon_phone.svg") no-repeat center center/cover;
+    background: url("i/icon_phone.svg") no-repeat center center/cover;
     height: 1.2rem;
     width: 1.2rem;
     margin-right: 0.5rem;
@@ -142,7 +142,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__login::before {
     content: '';
     display: block;
-    background: url("/i/icon_login.svg") no-repeat center center/cover;
+    background: url("i/icon_login.svg") no-repeat center center/cover;
     height: 1.3rem;
     width: 1.3rem;
     margin-right: 0.5rem;
@@ -150,7 +150,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__signup::before {
     content: '';
     display: block;
-    background: url("/i/icon_signup.svg") no-repeat center center/cover;
+    background: url("i/icon_signup.svg") no-repeat center center/cover;
     height: 1.3rem;
     width: 1.3rem;
     margin-right: 0.5rem;
@@ -158,7 +158,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__cart::before {
     content: '';
     display: block;
-    background: url("/i/icon_cart.svg") no-repeat center center/cover;
+    background: url("i/icon_cart.svg") no-repeat center center/cover;
     height: 1.2rem;
     width: 1.2rem;
     margin-right: 0.5rem;
@@ -320,13 +320,13 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
     transition: 1s;
 }
 .homepage_slider_item1 {
-    background: url("/i/slider1.jpg") no-repeat center center/cover;
+    background: url("i/slider1.jpg") no-repeat center center/cover;
 }
 .homepage_slider_item2 {
-    background: url("/i/slider2.jpg") no-repeat center center/cover;
+    background: url("i/slider2.jpg") no-repeat center center/cover;
 }
 .homepage_slider_item3 {
-    background: url("/i/slider3.jpg") no-repeat center center/cover;
+    background: url("i/slider3.jpg") no-repeat center center/cover;
 }
 .homepage_slider_arrows {
     display: flex;
@@ -345,10 +345,10 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
     z-index: 2;
 }
 .homepage_slider_prev {
-    background: url("/i/arrow1.png") no-repeat center center/cover;
+    background: url("i/arrow1.png") no-repeat center center/cover;
 }
 .homepage_slider_next {
-    background: url("/i/arrow2.png") no-repeat center center/cover;
+    background: url("i/arrow2.png") no-repeat center center/cover;
 }
 .homepage_slider_dots {
     position: absolute;
@@ -418,22 +418,22 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
     box-sizing: border-box;
 }
 .homepage_cat__item1 {
-    background: url("/i/cat1.jpg") no-repeat center center/cover;
+    background: url("i/cat1.jpg") no-repeat center center/cover;
 }
 .homepage_cat__item2 {
-    background: url("/i/cat2.jpg") no-repeat center center/cover;
+    background: url("i/cat2.jpg") no-repeat center center/cover;
 }
 .homepage_cat__item3 {
-    background: url("/i/cat3.jpg") no-repeat center center/cover;
+    background: url("i/cat3.jpg") no-repeat center center/cover;
 }
 .homepage_cat__item4 {
-    background: url("/i/cat4.jpg") no-repeat center center/cover;
+    background: url("i/cat4.jpg") no-repeat center center/cover;
 }
 .homepage_cat__item5 {
-    background: url("/i/cat5.jpg") no-repeat center center/cover;
+    background: url("i/cat5.jpg") no-repeat center center/cover;
 }
 .homepage_cat__item6 {
-    background: url("/i/cat6.jpg") no-repeat center center/cover;
+    background: url("i/cat6.jpg") no-repeat center center/cover;
 }
 @media (max-width: 1200px) {
     .homepage_cat__item {
