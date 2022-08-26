@@ -1,2 +1,6 @@
 # shop1
-Online Shop 1 for website city21.shop
+
+- Online store for selling products from Japan
+- For displaying products and for filtering, the CMS Modx is used
+- SQL queries are used to customize the database
+- Authorization, registration, cart management is done using JavaScript
