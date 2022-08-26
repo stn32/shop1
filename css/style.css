@@ -95,7 +95,7 @@ input, textarea {outline: none; font-family: 'Nunito', sans-serif;}
 .head__btn_search::before {
     content: '';
     display: block;
-    background: url("./shop1/i/icon_zoom.svg") no-repeat center center/cover;
+    background: url("./i/icon_zoom.svg") no-repeat center center/cover;
     height: 1.2rem;
     width: 1.2rem;
     display: flex;
